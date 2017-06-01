@@ -15,3 +15,6 @@ In order to use the scripts from the command line, edit the .bashrc and append t
 Now, you're ready to use your awesome scripts! 
 
 * Just type in the console: `cm` or `cm <pkg_name>`
+
+## Known issues
+My ROS workspace is _~/ros_ws_. You may need to change it to match yours (probably ~/catkin_ws). 
